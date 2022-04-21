@@ -162,3 +162,9 @@ button:disabled {
 .invisible {
 	display: none;
 }
+
+.copyright {
+	text-align: center;
+	font-size: .8em;
+	margin-top: 1em;
+}
