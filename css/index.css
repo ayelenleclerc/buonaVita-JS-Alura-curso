@@ -164,6 +164,7 @@ button:disabled {
 }
 
 .copyright {
+	margin: 0 auto;
 	text-align: center;
 	font-size: .8em;
 	margin-top: 1em;
